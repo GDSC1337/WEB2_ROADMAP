@@ -218,3 +218,40 @@ Additional resources:
         - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)**
     - Week 8: Server-side programming with Node.js, including modules, HTTP requests, and working with databases.
         - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)**
+
+
+## Learn about Git / Github in one week:
+**Day 1**
+
+- Introduction to version control: Start with an overview of what version control is and why it's important.
+    - Resource: **[https://www.atlassian.com/git/tutorials/what-is-version-control](https://www.atlassian.com/git/tutorials/what-is-version-control)**
+
+**Day 2**
+
+- Git basics: Learn the basic concepts of Git, including repositories, commits, and branches.
+    - Resource: **[https://www.atlassian.com/git/tutorials/what-is-git](https://www.atlassian.com/git/tutorials/what-is-git)**
+
+**Day 3**
+
+- Git workflow: Understand how to use Git to manage your code changes, collaborate with others, and deploy your code.
+    - Resource: **[https://www.atlassian.com/git/tutorials/comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)**
+
+**Day 4**
+
+- Git branching: Learn about branching in Git, including how to create and merge branches, and how to handle conflicts.
+    - Resource: **[https://www.atlassian.com/git/tutorials/using-branches](https://www.atlassian.com/git/tutorials/using-branches)**
+
+**Day 5**
+
+- GitHub: Get familiar with GitHub, one of the most popular web-based Git platforms, and understand how to use it to collaborate with others and contribute to open-source projects.
+    - Resource: **[https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)**
+
+**Day 6**
+
+- Advanced Git topics: Explore more advanced Git topics, such as rebasing, stashing, and cherry-picking, to make your Git workflow more efficient.
+    - Resource: **[https://www.atlassian.com/git/tutorials/advanced-overview](https://www.atlassian.com/git/tutorials/advanced-overview)**
+
+**Day 7**
+
+- Git best practices: Review the best practices for using Git, including committing often, writing clear commit messages, and keeping your repository clean.
+    - Resource: **[https://www.atlassian.com/git/tutorials/git-best-practices](https://www.atlassian.com/git/tutorials/git-best-practices)**
