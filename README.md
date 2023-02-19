@@ -340,3 +340,64 @@ All of these frameworks have their own strengths and weaknesses, and ultimately 
     - A movie search app
     - A chat app
 
+
+## Learn about relational database in 3 weeks:
+
+
+Here is a roadmap with resources to learn relational databases in 3 weeks:
+
+**Week 1**
+
+**Day 1**
+
+- Introduction to relational databases: Start with a basic understanding of what a relational database is, the main concepts behind it, and why it's important.
+    - Resource: **[https://www.tutorialspoint.com/dbms/dbms_introduction.htm](https://www.tutorialspoint.com/dbms/dbms_introduction.htm)**
+
+**Day 2**
+
+- Data modeling: Learn how to model data for a relational database, including how to design tables and define relationships between them.
+    - Resource: **[https://www.tutorialspoint.com/dbms/dbms_data_models.htm](https://www.tutorialspoint.com/dbms/dbms_data_models.htm)**
+
+**Day 3**
+
+- SQL basics: Understand the basics of SQL (Structured Query Language), the standard language used to manage relational databases, including how to create tables, insert data, and retrieve data.
+    - Resource: **[https://www.tutorialspoint.com/sql/index.htm](https://www.tutorialspoint.com/sql/index.htm)**
+
+**Day 4**
+
+- Querying data: Learn how to query data from a relational database, including how to use SQL to select, filter, and sort data.
+    - Resource: **[https://www.tutorialspoint.com/sql/sql-data-querying.htm](https://www.tutorialspoint.com/sql/sql-data-querying.htm)**
+
+**Day 5**
+
+- Joins and relationships: Understand how to join tables and work with relationships between tables in a relational database.
+    - Resource: **[https://www.tutorialspoint.com/sql/sql-data-relationships.htm](https://www.tutorialspoint.com/sql/sql-data-relationships.htm)**
+
+**Week 2**
+
+**Day 6-10**
+
+- Advanced SQL: Explore more advanced features of SQL, including subqueries, aggregate functions, and views.
+    - Resource: **[https://www.tutorialspoint.com/sql/sql-advanced.htm](https://www.tutorialspoint.com/sql/sql-advanced.htm)**
+
+**Day 11-12**
+
+- Indexing and performance: Understand how to improve the performance of a relational database by using indexing and other optimization techniques.
+    - Resource: **[https://www.tutorialspoint.com/dbms/dbms_indexing.htm](https://www.tutorialspoint.com/dbms/dbms_indexing.htm)**
+
+**Week 3**
+
+**Day 13-14**
+
+- Normalization: Learn about normalization, a process for organizing data in a relational database to reduce redundancy and improve data integrity.
+    - Resource: **[https://www.tutorialspoint.com/dbms/dbms_normalization.htm](https://www.tutorialspoint.com/dbms/dbms_normalization.htm)**
+
+**Day 15-16**
+
+- Transactions and concurrency: Understand how to manage transactions and concurrency in a relational database, including how to prevent data inconsistencies and conflicts.
+    - Resource: **[https://www.tutorialspoint.com/dbms/dbms_transactions.htm](https://www.tutorialspoint.com/dbms/dbms_transactions.htm)**
+
+**Day 17-21**
+
+- Relational database management systems: Explore popular relational database management systems (RDBMS) such as MySQL, PostgreSQL, and Oracle, and learn how to use them to create and manage a relational database.
+    - Resource: **[https://www.tutorialspoint.com/rdbms/index.htm](https://www.tutorialspoint.com/rdbms/index.htm)**
