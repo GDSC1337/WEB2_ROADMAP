@@ -255,3 +255,88 @@ Additional resources:
 
 - Git best practices: Review the best practices for using Git, including committing often, writing clear commit messages, and keeping your repository clean.
     - Resource: **[https://www.atlassian.com/git/tutorials/git-best-practices](https://www.atlassian.com/git/tutorials/git-best-practices)**
+
+
+## Learn about React in six week:
+
+Choosing which JavaScript framework to learn can depend on a number of factors, such as the type of project you want to build, your personal preferences, and the job market in your area.
+
+However, currently, some of the most popular JavaScript frameworks are:
+
+1. React: Developed by Facebook, React is a widely used library for building user interfaces. It's known for its flexibility, modularity, and large community of developers.
+2. Angular: Developed by Google, Angular is a full-featured framework for building complex, data-driven web applications. It provides a comprehensive set of tools and features, including dependency injection, two-way data binding, and testing.
+3. Vue.js: Vue.js is a progressive framework that is easy to learn and use. It provides a simple and intuitive API, and can be used for building both simple and complex web applications.
+
+All of these frameworks have their own strengths and weaknesses, and ultimately the choice of which to learn depends on your goals and preferences, we choose Ractjs for this roadmap.
+<br> </br>
+**Week 1**
+
+**Day 1**
+
+- Introduction to React: Start with a basic understanding of what React is, how it works, and why it's important.
+    - Resource: **[https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)**
+
+**Day 2**
+
+- Setting up your development environment: Learn how to set up your development environment for React development.
+    - Resource: **[https://reactjs.org/docs/create-a-new-react-app.html](https://reactjs.org/docs/create-a-new-react-app.html)**
+
+**Day 3**
+
+- JSX syntax: Understand how JSX works and how to use it to create components in React.
+    - Resource: **[https://reactjs.org/docs/introducing-jsx.html](https://reactjs.org/docs/introducing-jsx.html)**
+
+**Day 4**
+
+- Components: Learn about components in React, including how to create and use them.
+    - Resource: **[https://reactjs.org/docs/components-and-props.html](https://reactjs.org/docs/components-and-props.html)**
+
+**Day 5**
+
+- State and lifecycle: Understand how to manage state and lifecycle in React, including how to update components and handle events.
+    - Resource: **[https://reactjs.org/docs/state-and-lifecycle.html](https://reactjs.org/docs/state-and-lifecycle.html)**
+
+**Day 6**
+
+- Props and children: Learn how to use props and children to pass data and components between React components.
+    - Resource: **[https://reactjs.org/docs/components-and-props.html](https://reactjs.org/docs/components-and-props.html)**
+
+**Week 2-3**
+
+**Day 7-14**
+
+- React hooks: Learn about React hooks, which allow you to use state and other React features in functional components.
+    - Resource: **[https://reactjs.org/docs/hooks-intro.html](https://reactjs.org/docs/hooks-intro.html)**
+
+**Day 15-21**
+
+- React Router: Understand how to use React Router to add routing and navigation to your React applications.
+    - Resource: **[https://reactrouter.com/web/guides/quick-start](https://reactrouter.com/web/guides/quick-start)**
+
+**Day 22-28**
+
+- Redux: Learn about Redux, a popular state management library for React, and how to use it to manage global state in your applications.
+    - Resource: **[https://redux.js.org/introduction/getting-started](https://redux.js.org/introduction/getting-started)**
+
+**Week 4-5**
+
+**Day 29-42**
+
+- Styling in React: Explore different ways to style your React components, including CSS, inline styles, and CSS-in-JS libraries.
+    - Resource: **[https://reactjs.org/docs/faq-styling.html](https://reactjs.org/docs/faq-styling.html)**
+
+**Day 43-49**
+
+- Advanced topics: Dive into more advanced topics in React, such as performance optimization, testing, and server-side rendering.
+    - Resource: **[https://reactjs.org/docs/advanced-topics.html](https://reactjs.org/docs/advanced-topics.html)**
+
+**Week 6**
+
+**Day 50-56**
+
+- Build a project: Spend the final week building a project in React, using the skills and concepts you have learned in the previous weeks. You can start with a simple project and work your way up to something more complex. Here are some ideas for React projects:
+    - A to-do list app
+    - A weather app
+    - A movie search app
+    - A chat app
+
