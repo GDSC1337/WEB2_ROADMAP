@@ -167,3 +167,54 @@ Additional resources:
     
 
 ## Learn about the Javascript in 8 weeks:
+
+**Week 1**
+
+**Day 1**
+
+- Introduction to JavaScript: Start with a basic understanding of what JavaScript is, what it does, and why it's important.
+    - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**
+
+**Day 2**
+
+- Basic syntax: Learn the basic syntax of JavaScript, including variables, data types, operators, and control flow statements.
+    - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Syntax](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Syntax)**
+
+**Day 3**
+
+- Functions: Understand how functions work in JavaScript and how to use them to organize and reuse your code.
+    - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)**
+
+**Day 4**
+
+- Arrays and objects: Learn how to work with arrays and objects in JavaScript, including how to create, manipulate, and access their values.
+    - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)**
+
+**Day 5**
+
+- DOM manipulation: Understand how to use JavaScript to interact with the Document Object Model (DOM), which represents the structure of a webpage.
+    - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)**
+
+**Day 6**
+
+- Asynchronous programming: Learn about asynchronous programming in JavaScript, including callbacks, promises, and async/await.
+    - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)**
+
+**Day 7**
+
+- Debugging and tools: Explore the tools and techniques used for debugging JavaScript code and improve your workflow.
+    - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Debugging](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Debugging)**
+
+**Week 2-8**
+
+**Day 8-56**
+
+- Practice, Practice, Practice: Use what you have learned in the first week and subsequent weeks to create small projects and work through tutorials that reinforce your understanding of the concepts you have learned so far. Here are some resources for different topics to explore in the following weeks:
+    - Week 2-3: Advanced functions, closures, and the event loop
+        - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Advanced](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Advanced)**
+    - Week 4-5: JavaScript in the browser, including working with forms, cookies, and local storage.
+        - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)**
+    - Week 6-7: Advanced DOM manipulation, including event handling, animations, and web components.
+        - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)**
+    - Week 8: Server-side programming with Node.js, including modules, HTTP requests, and working with databases.
+        - Resource: **[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)**
