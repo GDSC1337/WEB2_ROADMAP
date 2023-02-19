@@ -341,6 +341,53 @@ All of these frameworks have their own strengths and weaknesses, and ultimately 
     - A chat app
 
 
+## Learn about API in 2 weeks:
+**Week 1**
+
+**Day 1**
+
+- Introduction to APIs: Start with a basic understanding of what an API is, how it works, and the different types of APIs available.
+    - Resource: **[https://www.tutorialspoint.com/api/index.htm](https://www.tutorialspoint.com/api/index.htm)**
+
+**Day 2**
+
+- HTTP and REST: Learn about the basics of HTTP (Hypertext Transfer Protocol) and REST (Representational State Transfer) architecture, which are commonly used in building APIs.
+    - Resource: **[https://www.tutorialspoint.com/http/index.htm](https://www.tutorialspoint.com/http/index.htm)**
+    - Resource: **[https://www.tutorialspoint.com/restful/index.htm](https://www.tutorialspoint.com/restful/index.htm)**
+
+**Day 3**
+
+- API design principles: Understand the key principles behind designing effective and usable APIs, including aspects such as endpoint design, response formats, and error handling.
+    - Resource: **[https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)**
+
+**Day 4**
+
+- API documentation: Learn about the importance of good documentation in API design, and explore tools and techniques for creating clear, concise, and effective API documentation.
+    - Resource: **[https://swagger.io/docs/specification/about/](https://swagger.io/docs/specification/about/)**
+
+**Day 5**
+
+- API security: Understand the security considerations involved in building APIs, including authentication and authorization, encryption, and protection against attacks such as SQL injection and cross-site scripting (XSS).
+    - Resource: **[https://www.tutorialspoint.com/api_security/index.htm](https://www.tutorialspoint.com/api_security/index.htm)**
+
+**Week 2**
+
+**Day 6-8**
+
+- API development: Start building your own APIs using a language or framework of your choice. This could involve building a simple API for a project, or following a tutorial to build a more complex API.
+    - Resource: **[https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm](https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm)**
+    - Resource: **[https://www.tutorialspoint.com/django/django_rest_framework.htm](https://www.tutorialspoint.com/django/django_rest_framework.htm)**
+
+**Day 9-11**
+
+- API testing: Understand the importance of testing APIs, and explore different techniques for testing API functionality, performance, and security.
+    - Resource: **[https://www.tutorialspoint.com/api_testing/index.htm](https://www.tutorialspoint.com/api_testing/index.htm)**
+
+**Day 12-14**
+
+- API consumption: Learn how to consume existing APIs in your own applications, including how to make API calls, handle responses, and parse data formats such as JSON and XML.
+    - Resource: **[https://www.tutorialspoint.com/api_testing/api_testing_restful.htm](https://www.tutorialspoint.com/api_testing/api_testing_restful.htm)**
+    - 
 ## Learn about relational database in 3 weeks:
 
 
