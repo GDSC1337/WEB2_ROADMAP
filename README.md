@@ -447,4 +447,4 @@ Here is a roadmap with resources to learn relational databases in 3 weeks:
 **Day 17-21**
 
 - Relational database management systems: Explore popular relational database management systems (RDBMS) such as MySQL, PostgreSQL, and Oracle, and learn how to use them to create and manage a relational database.
-    - Resource: **[https://www.tutorialspoint.com/rdbms/index.htm](https://www.tutorialspoint.com/rdbms/index.htm)**
+    - Resource: **[https://www.tutorialspoint.com/rdbms/index.htm](https://www.tutorialspoint.com/rdbms/index.htm)** 
