@@ -447,4 +447,83 @@ Here is a roadmap with resources to learn relational databases in 3 weeks:
 **Day 17-21**
 
 - Relational database management systems: Explore popular relational database management systems (RDBMS) such as MySQL, PostgreSQL, and Oracle, and learn how to use them to create and manage a relational database.
-    - Resource: **[https://www.tutorialspoint.com/rdbms/index.htm](https://www.tutorialspoint.com/rdbms/index.htm)**
+    - Resource: **[https://www.tutorialspoint.com/rdbms/index.htm](https://www.tutorialspoint.com/rdbms/index.htm)** 
+
+Nestjs:
+-NestJS is a popular, powerful, and versatile framework for building server-side applications using Node.js. It is built on top of Express and provides a robust set of features and tools for building scalable and maintainable web applications.
+
+One of the key benefits of NestJS is its modular architecture, which allows developers to break down their applications into smaller, reusable components. This makes it easier to manage and maintain code over time, and also makes it easier to collaborate with other developers on large-scale projects.
+
+NestJS also provides a strong set of features for building APIs, including support for both RESTful and GraphQL architectures. It makes it easy to define routes, handle requests and responses, and integrate with databases and other third-party services.
+
+Another key benefit of NestJS is its use of TypeScript, which is a typed superset of JavaScript. This allows for better code quality, improved error handling, and faster development times. TypeScript also makes it easier to catch bugs before they make it into production, which is crucial for building robust and reliable applications.
+
+Finally, NestJS has a strong and supportive community of developers, which means that it is easy to find resources and support when working with the framework. There are many tutorials, guides, and forums available to help developers get started with NestJS and troubleshoot any issues that arise along the way.
+
+In summary, NestJS is a powerful and versatile framework for building server-side applications using Node.js. Its modular architecture, support for APIs, use of TypeScript, and strong community make it a popular choice among developers for building scalable and maintainable web applications.
+
+-Here's a week's plan to lean nestjs day by day:
+Day 1: Getting Started
+
+    Introduction to NestJS
+    Setting up the development environment
+    Creating a simple NestJS application
+    Resources:
+        Official NestJS Documentation: https://docs.nestjs.com/
+        NestJS Crash Course by Traversy Media: https://www.youtube.com/watch?v=wqhNoDE6pb4
+
+Day 2: Controllers and Routing
+
+    Understanding the basics of controllers
+    Creating routes using decorators
+    Handling requests and responses
+    Resources:
+        Official NestJS Documentation on Controllers: https://docs.nestjs.com/controllers
+        Building a RESTful API with NestJS by Tamas Piros: https://auth0.com/blog/building-a-restful-api-with-nestjs/
+
+Day 3: Providers and Services
+
+    Understanding providers and services in NestJS
+    Creating and injecting services into controllers
+    Using dependency injection in NestJS
+    Resources:
+        Official NestJS Documentation on Providers: https://docs.nestjs.com/providers
+        NestJS Fundamentals: Services, Providers, and Controllers by Trilon.io: https://trilon.io/blog/nestjs-fundamentals-services-providers-controllers
+
+Day 4: Middleware and Pipes
+
+    Using middleware in NestJS
+    Creating custom middleware
+    Understanding pipes and their uses
+    Resources:
+        Official NestJS Documentation on Middleware: https://docs.nestjs.com/middleware
+        Official NestJS Documentation on Pipes: https://docs.nestjs.com/pipes
+
+Day 5: Authentication and Authorization
+
+    Understanding authentication and authorization in NestJS
+    Implementing passport.js in NestJS
+    Securing routes and endpoints
+    Resources:
+        Official NestJS Documentation on Authentication: https://docs.nestjs.com/security/authentication
+        NestJS with Passport.js by Valentino Gagliardi: https://blog.logrocket.com/nestjs-passport-authentication/
+
+Day 6: Database Integration
+
+    Integrating a database with NestJS
+    Understanding TypeORM and its usage in NestJS
+    Creating database models and relationships
+    Resources:
+        Official NestJS Documentation on Database Integration: https://docs.nestjs.com/techniques/database
+        TypeORM Documentation: https://typeorm.io/#/
+
+Day 7: Testing and Deployment
+
+    Understanding the testing framework in NestJS
+    Writing unit tests and integration tests
+    Deploying NestJS applications to production
+    Resources:
+        Official NestJS Documentation on Testing: https://docs.nestjs.com/fundamentals/testing
+        Deploying NestJS applications to Heroku: https://dev.to/kaloraat/how-to-deploy-nestjs-app-on-heroku-4dih
+
+I hope you find this plan helpful! Good luck with your NestJS learning journey.
